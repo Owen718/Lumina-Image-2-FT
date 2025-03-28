@@ -1,0 +1,7 @@
+META:
+  -
+    path: '/mnt/weka/yt_workspace/Lumina-Image-2.0/images_pdd/data_pdd3.json'
+    type: 'image_text'
+
+    # path: '/mnt/weka/yt_workspace/Lumina-Image-2.0/minidataset/data.json'
+    # type: 'image_text'

@@ -1,0 +1,17 @@
+./minidataset/*
+./minidataset/
+./dataset/*
+./dataset/
+./third_part/
+./PromptEngine/
+./images_pdd/
+./dataset/
+./results/
+./model_weights/
+dataset/
+results/
+model_weights/
+images_pdd/
+PromptEngine/
+third_part/
+minidataset/
